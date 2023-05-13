@@ -41,6 +41,6 @@ I'm always looking for new and exciting projects to work on. If you have a proje
 
 ### How to reach me
 
-You can reach me by email at [Email](your.email@example.com) or through my [LinkedIn profile](Rashed Khan Menon).
+You can reach me by email at [Email](your.email@example.com) or through my [LinkedIn profile](href="https://www.linkedin.com/in/rashed-khan-menon/").
 
 
