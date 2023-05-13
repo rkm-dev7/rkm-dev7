@@ -2,15 +2,11 @@
 
 I'm a full-stack web developer with experience building applications using a variety of modern technologies and tools. My skill set includes:
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Gatsby
-- React Native
-- Express
-- NestJS
-- Python
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React, Next.js, Gatsby, React Native
+- Backend: Express, NestJS
+- Databases: MongoDB, PostgreSQL
+- Tools: Git, VS Code, Postman
 
 ### About Me
 
