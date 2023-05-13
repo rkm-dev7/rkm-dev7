@@ -32,14 +32,15 @@ Here are some of the projects I've worked on recently:
 * [Project 2](https://github.com/example/project1): A web application for managing tasks.
 
 * [Project 3](https://github.com/example/project1): A web application for managing tasks.
+* 
 
-### Contact Me-
+### Looking to collaborate?
 
-If you're interested in working together, or if you just want to say hello, feel free to contact me:
+I'm always looking for new and exciting projects to work on. If you have a project that you think I would be a good fit for, please don't hesitate to get in touch!
 
-* Email: your.email@example.com
 
-* LinkedIn: Rashed Khan Menon
+### How to reach me
 
-* Portfolio: yourportfolio.com
+You can reach me by email at [Email](your.email@example.com) or through my [LinkedIn profile](Rashed Khan Menon).
+
 
