@@ -2,8 +2,8 @@
 
 I'm a full-stack web developer with experience building applications using a variety of modern technologies and tools. My skill set includes:
 
-{
-  programmingLanguages: ['JavaScript', 'TypeScript', 'Python'],
+{<br>
+  programmingLanguages: ['JavaScript', 'TypeScript', 'Python'],<br>
   frameworks: ['React', 'NextJS', 'Gatsby', 'React-Native', 'Express', 'NestJS']
 }
 
