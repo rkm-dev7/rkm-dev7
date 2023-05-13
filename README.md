@@ -32,7 +32,8 @@ Here are some of the projects I've worked on recently:
 * [Project 2](https://github.com/example/project1): A web application for managing tasks.
 
 * [Project 3](https://github.com/example/project1): A web application for managing tasks.
-* 
+
+
 
 ### Looking to collaborate?
 
@@ -41,6 +42,6 @@ I'm always looking for new and exciting projects to work on. If you have a proje
 
 ### How to reach me
 
-You can reach me by email at [Email](your.email@example.com) or through my [LinkedIn profile](href="https://www.linkedin.com/in/rashed-khan-menon/").
+You can reach me by email at [Email](your.email@example.com) or through my [LinkedIn profile](https://www.linkedin.com/in/rashed-khan-menon/).
 
 
